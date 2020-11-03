@@ -7,3 +7,7 @@
 Код программы представлен в файле lab03.cpp
 
 ![](https://github.com/nikolaevaaa/tsisa_03/blob/main/lab03.1.png?raw=true)
+
+
+
+![](https://github.com/nikolaevaaa/tsisa_03/blob/main/lab03.3.png?raw=true)
